@@ -1,0 +1,6 @@
+# TensorFlow files
+/models
+/tensorboard
+
+# System files
+.DS_Store
